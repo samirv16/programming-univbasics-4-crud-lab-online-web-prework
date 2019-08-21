@@ -40,5 +40,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-
+cities = ["wow", "Des Moines", "am", "arrays!"]
+  cities[3]
 end
